@@ -1,0 +1,31 @@
+body{
+	margin: 0 auto;
+	padding: 0;
+}
+.container{
+	margin: 0 auto;
+}
+.col-md-4{
+	margin-top: 15px;
+	height: 360px; 
+	padding: 0;
+
+	
+}
+.news:hover{
+	box-shadow: 0 0 16px rgba(0,0,0,0.7)
+}
+.news{
+		margin: 10px;
+}
+
+img{
+	height: 225px;
+	width: 100%;
+}
+.text{
+	padding : 0 20px 20px 20px ;
+	font-family: Arial; font-size: 20px;
+	color: #13317F;
+	font-weight: bold;
+}
